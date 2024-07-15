@@ -33,6 +33,8 @@ A food delivery service is experiencing challenges in achieving profitability ac
 
   4. **Multivariate Analysis**:
      - Conducted a multivariate analysis to understand relationships and patterns.
+
+  5. Created a Tableau dashboard to present the analysis.
      
 ### Insights
 ---
